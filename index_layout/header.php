@@ -11,7 +11,7 @@
         <h1>School Management System</h1>
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
+                <li><a href="./">Home</a></li>
                 <li><a href="students.php">Students</a></li>
                 <li><a href="teachers.php">Teachers</a></li>
                 <li><a href="classes.php">Classes</a></li>
