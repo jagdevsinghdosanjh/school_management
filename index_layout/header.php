@@ -16,8 +16,7 @@
                 <li><a href="teachers.php">Teachers</a></li>
                 <li><a href="classes.php">Classes</a></li>
                 <li><a href="./pages/AdminLogin.html">Admin Login</a></li>
-                <li><a href="./pages/DBA_Login.html">DBA Login</a></li>
-
+                <li><a href="./adminer/adminer_login.html">Adminer Login</a></li>
             </ul>
         </nav>
     </header>
