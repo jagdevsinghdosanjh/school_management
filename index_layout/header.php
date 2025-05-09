@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>School Management System</title>
+    <title>Government High School, Chananke (Amritsar)</title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
     <header>
-        <h1>School Management System</h1>
+        <h1>Government High School, Chananke (Amritsar)</h1>
         <nav>
             <ul>
                 <li><a href="./">Home</a></li>
