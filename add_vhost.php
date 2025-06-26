@@ -84,7 +84,7 @@ if(is_dir($aliasDir)) {
 	$PMyAdNotSeen = true;
 	$handle=opendir($aliasDir);
 	while (false !== ($file = readdir($handle))) {
-	  if(is_file($aliasDir.$file) && strstr($file, '.conf')) {
+		if(is_file($aliasDir.$file) && strstr($file, '.conf')) {
 			$href = $file = str_replace('.conf','',$file);
 			if($Alias_Contents[$file]['OK']) {
 				$file_sup = '';
